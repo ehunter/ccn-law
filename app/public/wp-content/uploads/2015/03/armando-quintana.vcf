@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Quintana;Armando;;;
+FN:Armando Quintana
+ORG:Cacheaux\, Cavazos & Newton;
+TITLE:Associate
+EMAIL;type=INTERNET;type=WORK;type=pref:aquintana@ccn-law.com.mx
+TEL;type=WORK;type=pref:+52 (55) 5093-9700
+TEL;type=WORK;type=FAX:+52 (55) 5093-9701
+item1.ADR;type=WORK;type=pref:;;Av. Tecamachalco # 14-502\,\nCol. Lomas de Chapultepec;Mexico;D.F.;C.P. 11010;Mexico
+item1.X-ABADR:us
+URL;type=WORK;type=pref:http\://www.ccn-law.com
+X-ABUID:E148B755-1659-4914-B347-C4CA20FF7301\:ABPerson
+END:VCARD

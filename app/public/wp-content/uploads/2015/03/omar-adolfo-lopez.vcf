@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lopez;Omar;Adolfo;;
+FN:Omar Adolfo Lopez
+ORG:Cacheaux\, Cavazos & Newton;
+TITLE:Attorney
+EMAIL;type=INTERNET;type=WORK;type=pref:olopez@ccn-law.com.mx
+TEL;type=WORK;type=pref:+52 (81) 8363-9099
+TEL;type=WORK;type=FAX:+01152 (81) 83 68 00 06
+item1.ADR;type=WORK;type=pref:;;Edificio VAO 2\nDavid Alfaro Siqueiros No. 104\, Int. 1505\nColonia Valle Oriente\nSan Pedro Garza García\, Nuevo León.\nCódigo Postal 66269\, México;;;;
+item1.X-ABADR:us
+URL;type=WORK;type=pref:http\://www.ccn-law.com
+X-ABUID:DC3698AA-B593-4053-8BB0-BB2EBF39ECE3\:ABPerson
+END:VCARD

@@ -1,0 +1,10 @@
+[21-Feb-2016 04:28:05 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ccnlaw/public_html/wp-content/plugins/hello.php on line 60
+[04-Mar-2016 13:08:07 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ccnlaw/public_html/wp-content/plugins/hello.php on line 60
+[04-Mar-2016 13:08:53 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ccnlaw/public_html/wp-content/plugins/hello.php on line 60
+[16-Mar-2016 17:41:28 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ccnlaw/public_html/wp-content/plugins/hello.php on line 60
+[16-Mar-2016 17:42:06 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ccnlaw/public_html/wp-content/plugins/hello.php on line 60
+[25-Apr-2016 08:55:22 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ccnlaw/public_html/wp-content/plugins/hello.php on line 60
+[23-May-2016 09:44:57 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ccnlaw/public_html/wp-content/plugins/hello.php on line 60
+[10-Jan-2017 07:11:20 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/wacrj20abrpk/public_html/wp-content/plugins/hello.php on line 60
+[19-Feb-2017 18:52:24 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/wacrj20abrpk/public_html/wp-content/plugins/hello.php on line 60
+[27-Feb-2017 10:00:58 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/wacrj20abrpk/public_html/wp-content/plugins/hello.php on line 60

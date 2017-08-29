@@ -1,0 +1,16 @@
+[01-Mar-2016 13:13:44 America/Chicago] PHP Fatal error:  Call to undefined function locate_template() in /home/ccnlaw/public_html/wp-content/themes/ccn-law/functions.php on line 29
+[01-Mar-2016 13:13:50 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/ccnlaw/public_html/wp-content/themes/ccn-law/404.php on line 1
+[01-Mar-2016 15:46:04 America/Chicago] PHP Fatal error:  Call to undefined function locate_template() in /home/ccnlaw/public_html/wp-content/themes/ccn-law/functions.php on line 29
+[01-Mar-2016 15:46:11 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/ccnlaw/public_html/wp-content/themes/ccn-law/404.php on line 1
+[13-Mar-2016 07:51:38 America/Chicago] PHP Fatal error:  Call to undefined function locate_template() in /home/ccnlaw/public_html/wp-content/themes/ccn-law/functions.php on line 29
+[31-May-2016 03:33:21 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/ccnlaw/public_html/wp-content/themes/ccn-law/404.php on line 1
+[13-Jun-2016 00:06:58 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/ccnlaw/public_html/wp-content/themes/ccn-law/404.php on line 1
+[07-Jul-2016 12:01:06 America/Chicago] PHP Fatal error:  Call to undefined function locate_template() in /home4/wacrj20abrpk/public_html/wp-content/themes/ccn-law/functions.php on line 29
+[26-Jul-2016 04:30:23 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/wacrj20abrpk/public_html/wp-content/themes/ccn-law/404.php on line 1
+[03-Aug-2016 00:34:10 America/Chicago] PHP Fatal error:  Call to undefined function locate_template() in /home4/wacrj20abrpk/public_html/wp-content/themes/ccn-law/functions.php on line 29
+[05-Aug-2016 13:30:14 America/Chicago] PHP Fatal error:  Call to undefined function locate_template() in /home4/wacrj20abrpk/public_html/wp-content/themes/ccn-law/functions.php on line 29
+[05-Aug-2016 22:14:29 America/Chicago] PHP Fatal error:  Call to undefined function locate_template() in /home4/wacrj20abrpk/public_html/wp-content/themes/ccn-law/functions.php on line 29
+[06-Aug-2016 04:16:57 America/Chicago] PHP Fatal error:  Call to undefined function locate_template() in /home4/wacrj20abrpk/public_html/wp-content/themes/ccn-law/functions.php on line 29
+[10-Aug-2016 12:03:53 America/Chicago] PHP Fatal error:  Call to undefined function locate_template() in /home4/wacrj20abrpk/public_html/wp-content/themes/ccn-law/functions.php on line 29
+[16-Mar-2017 16:16:38 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/wacrj20abrpk/public_html/wp-content/themes/ccn-law/404.php on line 1
+[23-Mar-2017 09:46:54 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/wacrj20abrpk/public_html/wp-content/themes/ccn-law/404.php on line 1

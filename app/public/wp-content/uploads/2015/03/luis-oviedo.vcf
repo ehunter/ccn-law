@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Oviedo;Luis;;;
+FN:Luis Oviedo
+ORG:Cacheaux\, Cavazos & Newton;
+TITLE:Associate
+EMAIL;type=INTERNET;type=WORK;type=pref:loviedo@ccn-law.com
+TEL;type=WORK;type=pref:+52 (442) 222-8502
+TEL;type=WORK:+01152 (442) 262-03-17
+TEL;type=WORK;type=FAX:+52 (442) 262-0320
+item1.ADR;type=WORK;type=pref:;Blvd Centro Sur No.98 oficina 101;Col. Colinas del Cimatario;C.P.  76090  Queretaro;Qro.;;Mexico
+item1.X-ABADR:us
+URL;type=WORK;type=pref:http\://www.ccn-law.com
+X-ABUID:40A3EB8B-B86F-48D5-9F34-6D46E844D1ED\:ABPerson
+END:VCARD

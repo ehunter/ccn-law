@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Ostos;Sergio;Mario
+FN:Sergio Mario Ostos
+ORG:Cacheaux, Cavazos & Newton, L.L.P.
+TITLE:Partner
+TEL;WORK;VOICE:(210) 244-0226
+ADR;WORK;ENCODING=QUOTED-PRINTABLE:;;Convent Plaza=0D=0A333 Convent Street;San Antonio;Texas;78205-1348;United =
+States of America
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:Convent Plaza=0D=0A333 Convent Street=0D=0ASan Antonio, Texas 78205-1348=0D=
+=0AUnited States of America
+ADR;HOME:;;;;;;United States of America
+LABEL;HOME:United States of America
+URL;WORK:http://www.ccn-law.com
+EMAIL;PREF;INTERNET:sostos@ccn-law.com
+REV:20081027T211918Z
+END:VCARD

@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Luna;Mayra;De;;
+FN:Mayra De Luna
+ORG:Cacheaux\, Cavazos & Newton;
+TITLE:Associate
+EMAIL;type=INTERNET;type=WORK;type=pref:mdeluna@ccn-law.com.mx
+TEL;type=WORK;type=pref:+52 (81) 8363-9099
+TEL;type=WORK;type=FAX:+52 (81) 8368-0006
+item1.ADR;type=WORK;type=pref:;;Edificio VAO 2\nDavid Alfaro Siqueiros No. 104\, Int. 1505\nColonia Valle Oriente\nSan Pedro Garza García\, Nuevo León.\nCódigo Postal 66269\, México;;;;
+item1.X-ABADR:us
+URL;type=WORK;type=pref:http\://www.ccn-law.com
+X-ABUID:BB798724-2FB6-4512-AA50-E3BB2E337028\:ABPerson
+END:VCARD

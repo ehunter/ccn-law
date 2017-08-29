@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Villarreal;Roberta;;;
+FN:Roberta Villarreal
+ORG:Cacheaux\, Cavazos & Newton;
+TITLE:Attorney
+EMAIL;type=INTERNET;type=WORK;type=pref:rvillarreal@ccn-law.com.mx
+TEL;type=WORK;type=pref:+01152 (81) 8363-9099
+TEL;type=CELL:+01152 (81) 80 88 73 83
+TEL;type=WORK;type=FAX:+01152 (81) 83 68 00 06
+item1.ADR;type=WORK;type=pref:;;Edificio VAO 2\nDavid Alfaro Siqueiros No. 104\, Int. 1505\nColonia Valle Oriente\nSan Pedro Garza García\, Nuevo León.\nCódigo Postal 66269\, México;;;;
+item1.X-ABADR:us
+URL;type=WORK;type=pref:http\://www.ccn-law.com
+X-ABUID:41B49D92-9A36-424B-A616-322774FBE7FF\:ABPerson
+END:VCARD

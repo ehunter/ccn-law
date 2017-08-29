@@ -1,0 +1,23 @@
+[25-Aug-2017 14:33:21] NOTICE: fpm is running, pid 23
+[25-Aug-2017 14:33:21] NOTICE: ready to handle connections
+[25-Aug-2017 15:04:29] NOTICE: fpm is running, pid 29
+[25-Aug-2017 15:04:29] NOTICE: ready to handle connections
+[25-Aug-2017 19:20:09] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[25-Aug-2017 19:21:47] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[25-Aug-2017 20:15:15] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[26-Aug-2017 21:21:41] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[28-Aug-2017 15:08:59] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[28-Aug-2017 16:23:13] NOTICE: fpm is running, pid 8
+[28-Aug-2017 16:23:13] NOTICE: ready to handle connections
+[28-Aug-2017 19:03:05] NOTICE: fpm is running, pid 8
+[28-Aug-2017 19:03:05] NOTICE: ready to handle connections
+[28-Aug-2017 19:16:07] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[28-Aug-2017 21:13:56] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[28-Aug-2017 21:17:12] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[28-Aug-2017 21:17:21] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[29-Aug-2017 03:02:01] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[29-Aug-2017 14:41:17] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[29-Aug-2017 15:13:22] NOTICE: fpm is running, pid 8
+[29-Aug-2017 15:13:22] NOTICE: ready to handle connections
+[29-Aug-2017 15:25:27] NOTICE: fpm is running, pid 32
+[29-Aug-2017 15:25:27] NOTICE: ready to handle connections

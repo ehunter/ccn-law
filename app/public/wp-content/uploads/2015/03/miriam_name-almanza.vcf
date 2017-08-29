@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Name;Miriam
+FN:Miriam Name
+ORG:Cacheaux, Cavazos & Newton
+TITLE:Partner
+TEL;WORK;VOICE:(210) 222-1642
+TEL;WORK;FAX:(210) 222-2453
+ADR;WORK;ENCODING=QUOTED-PRINTABLE:333 Convent Street            San Antonio, TX 78205
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:333 Convent Street            San Antonio, TX 78205
+URL;WORK:http://www.ccn-law.com
+EMAIL;PREF;INTERNET:mname@ccn-law.com
+REV:20081028T151542Z
+END:VCARD
